@@ -1,0 +1,12 @@
+.place-image {
+  width: 200px;
+  height: 150px;
+}
+.item-container {
+  margin: 15px;
+  text-align: center;
+}
+.item-name {
+  text-align: center;
+  margin-top: 0px;
+}
